@@ -1,6 +1,7 @@
 # donate_blood
 
 Donate blood application.
+Flutter + Google Firebase
 
 #### WELCOME SCREEN
 
