@@ -1,7 +1,8 @@
 # donate_blood
 
-Donate blood application.
-Flutter + Google Firebase
+Donate blood application created in Flutter + Google Firebase.
+
+Functions: [donate_blood_functions](https://github.com/dcegielka98/donate_blood_functions)
 
 #### WELCOME SCREEN
 
